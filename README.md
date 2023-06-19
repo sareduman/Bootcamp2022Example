@@ -3,7 +3,7 @@
 Takım Flutter 52
 
 # Ürün İle İlgili Bilgiler
-
+n
 ## Takım Elemanları
 - Muhammed Mustafa Aksoy: Scrum Master / Product Owner / Developer
 - Sümeyye Aydoğan: Developer
