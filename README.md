@@ -53,17 +53,17 @@ Bu şekilde bir oyun, ana karakterin hikayesini tamamlamak için birincil fonksi
 
 ## Hedef Kitle
 
-- Çevreci gönüllüler
-- Apartman yöneticileri
-- Apartman sakinleri
-- Bina yönetim şirketleri 
-- Geri dönüşüm merkezleri
-- Geri dönüşüm atık toplayıcıları
+- Fantastik macera türünü sevenler
+- 13 yaş ve üstü oyuncular
+- Mitoloji ve mistizm meraklıları:
+- Platform oyunu oynamayı tercih edenler
 
 ## Juriye Not
 
-İlan formu veritabanına başarılı şekilde veri göndermesine rağmen, tecrübe yetersizliği ve zaman eksikliği sebebiyle ilanlar listesi ve teklif formları veritabanıyla ilişkilendirilememiştir.
+-
 
+
+---
 
 ---
 
